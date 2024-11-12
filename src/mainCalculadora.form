@@ -10,7 +10,7 @@
     </properties>
     <border type="none"/>
     <children>
-      <component id="df96b" class="javax.swing.JTextField" binding="txtResultado">
+      <component id="df96b" class="javax.swing.JTextField" binding="painel">
         <constraints>
           <grid row="0" column="0" row-span="1" col-span="4" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
             <preferred-size width="150" height="-1"/>
@@ -31,6 +31,10 @@
           <grid row="4" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
+          <background color="-797415"/>
+          <enabled value="true"/>
+          <font style="1"/>
+          <hideActionText value="false"/>
           <text value="+"/>
         </properties>
       </component>
@@ -63,6 +67,9 @@
           <grid row="4" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
+          <background color="-797415"/>
+          <enabled value="true"/>
+          <font style="1"/>
           <text value="-"/>
         </properties>
       </component>
@@ -71,6 +78,8 @@
           <grid row="4" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
+          <background color="-797415"/>
+          <enabled value="true"/>
           <text value="x"/>
         </properties>
       </component>
@@ -127,6 +136,8 @@
           <grid row="2" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
+          <background color="-1753548"/>
+          <enabled value="true"/>
           <text value="C"/>
         </properties>
       </component>
@@ -135,6 +146,8 @@
           <grid row="3" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
+          <background color="-10296988"/>
+          <enabled value="true"/>
           <text value="="/>
         </properties>
       </component>
@@ -143,6 +156,8 @@
           <grid row="4" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
+          <background color="-797415"/>
+          <enabled value="true"/>
           <text value="÷"/>
         </properties>
       </component>
